@@ -1,0 +1,25 @@
+{
+  "api_version": "2.0",
+  "widget_version": "1.07beta",
+  "widget_name": "Punk meme generator",
+  "widget_settings": [
+    {
+      "form_data": {}
+    }
+  ],
+  "data_sources": {
+    "pictures": [
+      "https://coinmixed.eu/wp-content/uploads/2019/07/D-LMPiWwAA_Om4-960x579.jpg",
+      "https://i.redd.it/1itt4ba8e6fz.jpg",
+      "https://media.makeameme.org/created/buy-shitcoin-dont.jpg",
+      "https://i.pinimg.com/originals/f9/d4/e5/f9d4e5e9bac44c1f559161f648f7eb2a.jpg",
+      "https://coinmixed.eu/wp-content/uploads/2019/07/cantchoose.jpg",
+      "https://101blockchains.com/wp-content/uploads/2018/06/the-uncertainity-blockchain-meme.jpg",
+      "https://img-9gag-fun.9cache.com/photo/aBmLryO_460s.jpg",
+      "https://i.kym-cdn.com/photos/images/newsfeed/001/325/559/b8a.jpg",
+      "https://i.pinimg.com/564x/85/84/d8/8584d89906cd950e2841f717be203a10.jpg",
+      "https://i.pinimg.com/736x/8a/5a/d5/8a5ad51692faaf5e52b9c4ccdec8a18a.jpg",
+      "https://i.imgflip.com/447ate.jpg"
+    ] 
+  }
+}
